@@ -9,7 +9,6 @@ Easy[^1] steps to start:
 
 - Open this demo [CV repository](https://github.com/streamline-cv/cv).
 - Create a **private** [repository from the template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template).
-- Go `settings -> actions -> general` and enable `read and write permissions`.
 - Open `config.yaml` file of your repository.
 - Make a
   test [change, commit and create a PR](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
