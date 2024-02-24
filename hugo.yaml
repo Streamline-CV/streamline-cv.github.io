@@ -17,6 +17,10 @@ markup:
   highlight:
     noClasses: false
 
+services:
+  googleAnalytics:
+    ID: G-KNV9S1C7G3
+
 menu:
   main:
     - name: Docs
